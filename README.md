@@ -1,3 +1,11 @@
+## Discover & Share AI-Powered Prompts
+- Promptopia is an open-source AI prompting tool for modern world to discover, create and share creative prompts
+![image](https://github.com/Jagadeesh-tamizh/Promptopia/assets/84759769/437cc380-25ad-45e6-a9e3-e6aed054f217)
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
