@@ -11,6 +11,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Google Authentication 🔐
 - MongoDB Database 🍃
 - NextJS ⚡
+- Tailwind ✨
 - Sharing prompts to Public 💬
 - Personal Profile Page 📃
 - CRUD owned prompts 🔧
